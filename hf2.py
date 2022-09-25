@@ -5,9 +5,9 @@ n = int(input("n= "))
 m = int(input("m= "))
 if m != 0:
     if n%m==0:
-        print("osztolya")
+        print("osztoja")
     else:
-        print("nem osztolya")
+        print("nem osztoja")
 
 
 #2
